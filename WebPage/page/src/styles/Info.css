@@ -1,0 +1,11 @@
+.informacion {
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    height: 2.5rem;
+    border: 2px solid #323030;
+    background-color: #08c5f4ba;
+    color: #3f4244;
+    align-items: center;
+    justify-content: center;
+}
