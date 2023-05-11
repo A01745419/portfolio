@@ -1,0 +1,16 @@
+In the zip file you will find these things:
+Model with local grid viewer of Mesa is located in the MesaLocalViz folder.
+
+
+The 3D project is very heavy, so the zip that includes that part is in this drive:
+https://drive.google.com/file/d/1UEaSsGvjlhGsMyb5zTwWB2i-uVcEBah7/view?usp=sharing
+
+Where you will find:
+Model with Flask Server is in MesaServerUnity folder.
+Graphics simulation in Unity is in MovilidadUrbanaUnity folder.
+
+
+You can see the installation process and execution in these videos:
+https://youtu.be/QUCXsx-yALA
+https://youtu.be/6_PICK3ejnM
+
