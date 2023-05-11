@@ -55,8 +55,8 @@ function App() {
           <div>
           <h4>Idiomas</h4>
           <li>Español: Nativo</li>
-          <li>Ingles: TOEFL ITP 600</li>
-          <li>Aleman: Goethe A1</li>
+          <li>Inglés: TOEFL ITP 600</li>
+          <li>Alemán: Goethe A1</li>
           </div>
         </div>
       </div>
@@ -66,12 +66,12 @@ function App() {
           Computacionales en Tecnologico
           de Monterrey Campus Estado de Mexico/ 2020-actual</p>
           <h3>Participaciones relevantes</h3>
-          <li>Migración de plataforma de HagamosCine a Django</li>
-          <li>Generación de aplicación para Instituto Irapuatense Down</li>
+          <li>Migración de plataforma web de HagamosCine a Django</li>
+          <li>Generación de aplicación móvil para Instituto Irapuatense Down</li>
           <h3>Premios</h3>
           <li>Beca al talento académico 2021</li>
-          <li>2do lugar Winter Games 2020: desafíos físicos intelectuales y físicos entre comunidades</li>
-          <li>1er lugar HackMx 2021: Detección de fraudes bancarios con redes neuronales</li>
+          <li>2do lugar Winter Games 2020: desafíos intelectuales y físicos entre comunidades</li>
+          <li>1er lugar HackMx 2021 Reto NDS: Detección de fraudes bancarios con redes neuronales</li>
       </div>
       <div className='github'>
         <Imagen img={github} />
@@ -93,7 +93,7 @@ function App() {
         <p>Teléfono: 5534325251</p>
         <a className='link' href="https://www.linkedin.com/in/jose-luis-madrigals-31201/"><span class="fa-container text-center    mr-2"><i class="fa fa-linkedin-square"></i></span>LinkedIn</a>
       </div>
-      <p className='leyenda'>App de React "PORTFOLIO-WEBPAGE": creada por Jose Luis Madrigal Sanchez 2023</p>
+      <p className='leyenda'>App de React "PORTFOLIO-WEBPAGE": creada por José Luis Madrigal Sánchez 2023</p>
     </div>
   );
 }
